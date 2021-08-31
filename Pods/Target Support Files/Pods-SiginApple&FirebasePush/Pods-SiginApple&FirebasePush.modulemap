@@ -1,0 +1,6 @@
+framework module Pods_SiginApple_FirebasePush {
+  umbrella header "Pods-SiginApple&FirebasePush-umbrella.h"
+
+  export *
+  module * { export * }
+}
